@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-49274dd4f1.bao1999.cn/sitemap.xml
